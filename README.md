@@ -9,7 +9,7 @@
 
  👨‍💻 Projects
 All of my projects are available here:  
-👉 [Portfolio Repo Project](https://lpmashinini.github.io/portfolio-repo-project/)
+
 
 ---
 
