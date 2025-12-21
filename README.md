@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lebogang Peter Mashinini</h1>
-<h3 align="center">ICT Final Year Student | Software Developer | AWS Cloud Practitioner</h3>
+<h3 align="center">ICT Final Year Student | Software Developer | DevOps Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lpMashinini&label=Profile%20views&color=0e75b6&style=flat" alt="lpMashinini" />
