@@ -8,7 +8,7 @@
 
 
  👨‍💻 Projects
-All of my projects are available here:  
+-All of my projects are available here:  
 
 
 ---
