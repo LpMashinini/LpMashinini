@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lebogang Peter Mashinini</h1>
-<h3 align="center">ICT Final Year Student | Software Developer | DevOps Engineer | Data Engineer</h3>
+<h3 align="center">ICT Final Year Student | Software Developer | DevOps Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lpMashinini&label=Profile%20views&color=0e75b6&style=flat" alt="lpMashinini" />
@@ -58,7 +58,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 
