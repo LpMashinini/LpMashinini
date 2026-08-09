@@ -73,7 +73,7 @@
 ---
 
 
-## 📜 Certifications
+# 📜  Certifications
 
 - **AWS Cloud Practitioner Essentials**  
   AWS Training & Certification  
