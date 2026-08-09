@@ -70,6 +70,27 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
+---
+
+
+## 📜 Certifications
+
+- **AWS Cloud Practitioner Essentials**  
+  AWS Training & Certification  
+  [View Certificate](Certificates/Cloud%20Practitioner.pdf)
+
+- **Introduction to Kubernetes (LFS158)**  
+  The Linux Foundation  
+  [View Certificate](Certificates/Kubernetes-certificate.pdf)
+
+- **Introduction to Cybersecurity**  
+  Cisco Networking Academy  
+  [View Certificate](Certificates/Cybersecurity-Certfication.pdf)
+
+- **Docker Certification**  
+  Docker Training Program  
+  [View Certificate](Certificates/docker_certificate.pdf)
+
 
 
 
