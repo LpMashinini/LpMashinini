@@ -92,6 +92,9 @@
   Docker Training Program  
   [View Certificate](Certificates/docker_certificate.pdf)
 
+  ## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy-chi-ten.vercel.app/?username=lpmashinini&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 
 
@@ -111,3 +114,9 @@
     </td>
   </tr>
 </table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=lpmashinini&theme=github-dark&mode=dark&style=snake" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=lpmashinini&theme=github-dark&mode=dark&style=snake" />
+  <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=lpmashinini&theme=github-dark&mode=dark&style=snake" />
+</picture>
