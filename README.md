@@ -115,8 +115,3 @@
   </tr>
 </table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=lpmashinini&theme=github-dark&mode=dark&style=snake" />
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=lpmashinini&theme=github-dark&mode=dark&style=snake" />
-  <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=lpmashinini&theme=github-dark&mode=dark&style=snake" />
-</picture>
